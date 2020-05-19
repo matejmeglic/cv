@@ -210,6 +210,10 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
+#about p {
+   text-align: justify;
+}
+
 #about a, #about a:visited  { color: #fff; }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
@@ -257,6 +261,10 @@ ul#nav li.current a { color: #F06000; }
    padding-top:72px;
    padding-bottom: 72px;
    overflow: hidden;
+}
+
+#resume p {
+   text-align:justify;
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
