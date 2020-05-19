@@ -1,0 +1,163 @@
+{
+  "main": {
+    "name":"Matej Meglic",
+    "occupation":"Project/Product manager",
+    "description":"To enable everyone, so that they can perform their part better.",
+    "image":"profilepic.jpg",
+    "bio":"10 years of experience on HW/SW projects varying from startups to large-scale mass production companies. Empowerment through empathy, fast prototyping with agile approach to project focus and strategy adjustments, putting key users first to find product-market fit. Enough buzzwords? :)",
+    "email": "matej@matejmeglic.com",
+    "phone": "+386-41-264-960",
+    "skype": "Skype name: fearless_bass",
+    "website": "http://www.matejmeglic.com",
+    "resumedownload":"./images/Matej Meglic_CV_MAY2020.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/matejmeglic/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Faculty of Organizational Sciences, University of Maribor",
+        "degree":"Bachelor's Degree, Organization and Management of Information Systems",
+        "graduated":"(2007 - 2010)",
+        "description":"Best student in the year 2010 - Dean's degree. Finished with an average score 9.52 / 10."
+      },{
+        "school":"High School, Gymnasium Programme, Kranj",
+        "degree":"Secondary school with Economy-based program",
+        "graduated":"(2003 - 2007)"
+      }
+    ],
+    "work":[
+      {
+        "company":"Fareboom - Best Travel Store Inc.",
+        "location":"Ljubljana, Slovenia",
+        "title":"Project manager",
+        "years":"September 2018 - Januar 2020 (1 year 6 months)",
+        "description":"An Online Travel Agency with emphasis on Personalization, Machine Learning and Price Prediction via MicrosensingTM. Key responsibilities for strategy, hiring in multiple offices and leading / delivering SW development with an outsourced development team of 25."
+      },
+      {
+        "company":"GOAVIO (Nizkocenovci.com)",
+        "location":"Ljubljana, Slovenia",
+        "title":"COO",
+        "years":"March 2018 - August 2018 (6 months)",
+        "description":"GoAvio is developing an algorithm that searches millions of low-cost flights, trains and buses to find the best fit for any travel needs. Key responsibilities for on-time development delivery, financial oversight, product testing, M&A preparation (M&A successful)"
+      },
+      {
+        "company":"Sphericam Inc.",
+        "location":"Groningen, The Netherlands",
+        "title":"Program Manager",
+        "years":"July 2016 - March 2018 (1 year 9 months)",
+        "description":"Program Manager at one of the hottest spherical vision system providers. Responsible for program management of SW, FW and HW development teams as well as procurement, IP, documentation, hiring and mass production preparation."
+      },
+      {
+        "company":"Iskratel",
+        "location":"Kranj, Slovenia",
+        "title":"Head of Order Processing",
+        "years":"September 2015 - July 2016 (11 months)",
+        "description":"Alongside supporting projects from previous position, maintaining a system for preprocessing sales orders valid for the production process."
+      },
+      {
+        
+        "title":"Project manager (CRM&SD)",
+        "location":"Kranj, Slovenia and Yekaterinburg, Russia",
+        "years":"October 2010 - January 2013 (2 years 4 months)",
+        "description":"Project and Process Management, Business Process optimization, SAP ERP and SAP CRM Support Manager Role for Russian speaking Joint Venture companies, responsible for IT support of roll-outs and merges of the companies (IT, finances, controlling, logistics, sales etc.)."
+      }
+    ],
+    "other_work": [
+      { 
+        "background": true,
+        "title":"Designing firmware for autonomous timelapse camera",
+        "location":"February 2020 - April 2020"
+      },
+      { 
+        "title":"Wedding Photographer",
+        "location":"March 2015 - January 2018 0"
+      },
+      { 
+        "title":"Graphic/web designer for NEnavaden slog",
+        "location":"January 2009 - March 2015"
+      },
+      { 
+        "title":"Freelance Photographer",
+        "location":"August 2008 - March 2015"
+      }
+    ],
+    "consulting": [
+      { 
+        "company":"Iga Relax d.o.o.",
+        "title":"Marketing and IT Consultant"
+      },
+      { 
+        "company":"Moja Knjiga d.o.o.",
+        "title":"Marketing and Event manager"
+      },
+      { 
+        "company":"E-posrednik s.p.",
+        "title":"Sales and Direct marketing manager"
+      },
+      { 
+        "company":"DES Labod d.o.o.",
+        "title":"Sales Manager"
+      },
+      { 
+        "company":"Pošta Slovenije",
+        "title":"Mail Carrier and Back Office"
+      }
+
+    ],
+    "volunteering": [
+      { 
+        "background": true,
+        "title":"COVID-19 Sledilnik project manager",
+        "years":"2 months during COVID-19 epidemy in 2020"
+      },
+      { 
+        "title":"President of Photo club Tržič",
+        "years":"5 years 6 months"
+      },
+      { 
+        "title":"Symphonic orchestra Cantabile E-bass/Double bass player",
+        "years":"8 years 1 month"
+      },
+      { 
+        "title":"Mongolia Charity Rally 2014 participant",
+        "years":"1 year 1 month"
+      }
+    ],
+    "languages": [
+      {
+        "lang": "Slovene",
+        "proficiency": "(Native speaker)"
+      },
+      {
+        "lang": "English",
+        "proficiency": "(Full proficiency)"
+      },
+      {
+        "lang": "Russian",
+        "proficiency": "(Full proficiency)"
+      },
+      {
+        "lang": "German",
+        "proficiency": "(Limited knowledge)"
+      },
+      {
+        "lang": "Croatian, Serbian, Bosnian languages",
+        "proficiency": "(Limited knowledge)"
+      },
+      {
+        "lang": "Dutch",
+        "proficiency": "(Basic knowledge)"
+      },
+      {
+        "lang": "Music",
+        "proficiency": "(Full proficiency)"
+      }
+    ]
+  }
+}
