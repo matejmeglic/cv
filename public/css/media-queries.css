@@ -60,7 +60,17 @@
    /* Resume Section
    ------------------------------------------------------------------- */
    #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
-   #resume .main-col { padding-right: 5%; }   
+   #resume .main-col { padding-right: 5%; }  
+   
+   #resume .infoYellow {
+      font: 16px/24px 'librebaskerville-italic', serif;
+      color: #6E7881;
+      margin-bottom: 18px;
+      margin-top: 9px;
+   }
+   #resume .infoYellow span {
+      background-color: #fff7dc;
+   }
 
    /* Testimonials Section
    ------------------------------------------------------------------- */
@@ -193,7 +203,7 @@
    }
    header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; }
    header .banner-text h3 {
-      font: 16px/1.9em 'librebaskerville-regular', serif;
+      font: 18px/1.9em 'librebaskerville-regular', serif;
       width: 85%;
    }
    header .banner-text hr {
@@ -234,7 +244,25 @@
    #resume h1 { letter-spacing: 3px; }
    #resume .main-col { padding-right: 30px; }
    #resume h3, #resume .info { text-align: center; }
-      
+
+   #resume .infoYellow {
+      font: 16px/24px 'librebaskerville-italic', serif;
+      color: #6E7881;
+      margin-bottom: 18px;
+      margin-top: 9px;
+      text-align:center;
+   }
+   #resume .infoYellow span {
+      background-color: #fff7dc;
+   }
+   #resume .workLocation  {
+      text-align:center;
+   }
+   
+   #resume .date {
+      text-align: center;
+   }
+
    .bars { width: 100%; }
 
 

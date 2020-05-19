@@ -3,7 +3,6 @@ import ParticlesBg from 'particles-bg'
 
 var randomNumber = 0;
 randomNumber = (Math.floor(Math.random() * 2) + 1);
-console.log(randomNumber);
 
 class Header extends Component {
   render() {

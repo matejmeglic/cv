@@ -6,7 +6,7 @@ class Resume extends Component {
     if(this.props.data){
       var education = this.props.data.education.map(function(education){
         return <div key={education.school}><h3>{education.school}</h3>
-        <em className="date">{education.graduated}</em>
+        <p className="date">{education.graduated}</p>
         <p className="info">{education.degree}</p>
         <p>{education.description}</p></div>
       })
