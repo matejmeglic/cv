@@ -72,6 +72,11 @@
       background-color: #fff7dc;
    }
 
+
+   #resume .date {
+      text-align: center;
+   }
+
    /* Testimonials Section
    ------------------------------------------------------------------- */
    #testimonials .header-col h1:before {
