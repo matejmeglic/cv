@@ -18,12 +18,12 @@ class Contact extends Component {
       <section id="contact">
          <footer>
          <div className="row">
-         <span>
-            <span>{email} | </span>
-            <span>{skype} | </span>
-            <span>{phone}</span>
-         </span>
-        <div className="twelve columns">
+            <span className="footer-p">
+              <p>{email}</p>
+              <p>{skype}</p>
+              <p>{phone}</p>
+            </span>
+         <div className="twelve columns">
            <ul className="social-links">
               {networks}
            </ul>

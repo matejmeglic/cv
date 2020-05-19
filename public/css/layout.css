@@ -33,6 +33,11 @@ body { background: #fff; }
    margin-bottom: 10px;
 }
 
+.footer-p p{
+   margin-bottom: 0px;
+   color: #333333;
+}
+
 header {
    position: relative;
    height: 800px;
