@@ -6,16 +6,6 @@ import About from './Components/About';
 import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 
-// GA - Sample authentication provider
-import ReactGA from 'react-ga';
-import auth from './auth.ts';
-
-const trackingId = "UA-60638012-1"; 
-ReactGA.initialize(trackingId);
-ReactGA.set({
-  userId: auth.currentUserId(),
-})
-
 class App extends Component {
 
   constructor(props){
