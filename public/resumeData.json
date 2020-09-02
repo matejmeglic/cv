@@ -1,132 +1,139 @@
 {
   "main": {
-    "name":"Matej Meglic",
-    "occupation":"Project/Product manager",
-    "description":"To empower everyone, so that together, we can contribute at our best.",
-    "image":"profilepic.jpg",
-    "bio":"10 years of experience on HW/SW projects varying from startups to large-scale mass production companies. Empowerment through empathy, fast prototyping with an agile approach, project focus and strategy development, enabling users needs to find product-market fit. Enough buzzwords? :)",
+    "name": "Matej Meglic",
+    "occupation": "Project/Product manager",
+    "description": "Empower everyone, so that together, we can contribute at our best.",
+    "description2": "Empathy through Product.",
+    "image": "profilepic.jpg",
+    "bio": "10 years of experience on HW/SW projects varying from startups to large-scale mass production companies. Empowerment through empathy, fast prototyping with an agile approach, project focus and strategy development, enabling users needs to find product-market fit. Enough buzzwords? :)",
     "email": "matej@matejmeglic.com",
     "phone": "+386-41-264-960",
     "skype": "Skype name: fearless_bass",
     "website": "http://www.matejmeglic.com",
-    "resumedownload":"./images/Matej_Meglic_CV_MAY2020.pdf",
-    "social":[
+    "resumedownload": "./images/Matej_Meglic_CV_2020.pdf",
+    "social": [
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/matejmeglic/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/matejmeglic/",
+        "className": "fa fa-linkedin"
       }
     ]
   },
-  "resume":{
-    "education":[
+  "resume": {
+    "education": [
       {
-        "school":"Faculty of Organizational Sciences, University of Maribor",
-        "degree":"Bachelor's Degree, Organization and Management of Information Systems",
-        "graduated":"(2007 - 2010)",
-        "description":"Dean's list - Best student of year 2010. Finished with an average score of 9.52 / 10."
-      },{
-        "school":"High School, Gymnasium Programme, Kranj",
-        "degree":"Secondary school with Economy-based program",
-        "graduated":"(2003 - 2007)"
+        "school": "Faculty of Organizational Sciences, University of Maribor",
+        "degree": "Bachelor's Degree, Organization and Management of Information Systems",
+        "graduated": "(2007 - 2010)",
+        "description": "Dean's list - Best student of year 2010. Finished with an average score of 9.52 / 10."
+      },
+      {
+        "school": "High School, Gymnasium Programme, Kranj",
+        "degree": "Secondary school with Economy-based program",
+        "graduated": "(2003 - 2007)"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Fareboom - Best Travel Store Inc.",
-        "location":"Ljubljana, Slovenia",
-        "title":"Project manager",
-        "years":"September 2018 - January 2020 (1 year 6 months)",
-        "description":"An Online Travel Agency with emphasis on Personalization, Machine Learning, and Price Prediction via MicrosensingTM. Key responsibilities for strategy, hiring in multiple offices and leading/delivering SW development with an outsourced development team of 25."
+        "company": "d.labs",
+        "location": "Ljubljana, Slovenia",
+        "title": "Senior Product manager",
+        "years": "September 2020 - Present",
+        "description": ""
       },
       {
-        "company":"GOAVIO (Nizkocenovci.com)",
-        "location":"Ljubljana, Slovenia",
-        "title":"COO",
-        "years":"March 2018 - August 2018 (6 months)",
-        "description":"GoAvio is developing a virtual interlining algorithm that searches millions of low-cost flights, trains, and buses to find the best fit for any travel needs. Key responsibilities for on-time development delivery, financial oversight, product testing, M&A preparation (M&A successful)."
+        "company": "Fareboom - Best Travel Store Inc.",
+        "location": "Ljubljana, Slovenia",
+        "title": "Project manager",
+        "years": "September 2018 - January 2020 (1 year 6 months)",
+        "description": "An Online Travel Agency with emphasis on Personalization, Machine Learning, and Price Prediction via MicrosensingTM. Key responsibilities for strategy, hiring in multiple offices and leading/delivering SW development with an outsourced development team of 25."
       },
       {
-        "company":"Sphericam Inc.",
-        "location":"Groningen, The Netherlands",
-        "title":"Program Manager",
-        "years":"July 2016 - March 2018 (1 year 9 months)",
-        "description":"Program Manager at one of the hottest spherical vision system providers. Responsible for program management of SW, FW, and HW development teams as well as procurement, IP, documentation, hiring, and mass production preparation."
+        "company": "GOAVIO (Nizkocenovci.com)",
+        "location": "Ljubljana, Slovenia",
+        "title": "COO",
+        "years": "March 2018 - August 2018 (6 months)",
+        "description": "GoAvio is developing a virtual interlining algorithm that searches millions of low-cost flights, trains, and buses to find the best fit for any travel needs. Key responsibilities for on-time development delivery, financial oversight, product testing, M&A preparation (M&A successful)."
       },
       {
-        "company":"Iskratel",
-        "location":"Kranj, Slovenia",
-        "title":"Head of Order Processing",
-        "years":"September 2015 - July 2016 (11 months)",
-        "description":"Alongside supporting projects from the previous position, maintaining a system for preprocessing sales orders valid for the production process."
+        "company": "Sphericam Inc.",
+        "location": "Groningen, The Netherlands",
+        "title": "Program Manager",
+        "years": "July 2016 - March 2018 (1 year 9 months)",
+        "description": "Program Manager at one of the hottest spherical vision system providers. Responsible for program management of SW, FW, and HW development teams as well as procurement, IP, documentation, hiring, and mass production preparation."
       },
       {
-        
-        "title":"Project manager (CRM&SD)",
-        "location":"Kranj, Slovenia and Yekaterinburg, Russia",
-        "years":"October 2010 - January 2013 (4 years 11 months)",
-        "description":"Project and Process Management, Business Process optimization, SAP ERP, and SAP CRM Support Manager Role for Russian speaking Joint Venture companies, responsible for IT support of roll-outs and merges of the companies (IT, finances, controlling, logistics, sales)."
+        "company": "Iskratel",
+        "location": "Kranj, Slovenia",
+        "title": "Head of Order Processing",
+        "years": "September 2015 - July 2016 (11 months)",
+        "description": "Alongside supporting projects from the previous position, maintaining a system for preprocessing sales orders valid for the production process."
+      },
+      {
+        "title": "Project manager (CRM&SD)",
+        "location": "Kranj, Slovenia and Yekaterinburg, Russia",
+        "years": "October 2010 - January 2013 (4 years 11 months)",
+        "description": "Project and Process Management, Business Process optimization, SAP ERP, and SAP CRM Support Manager Role for Russian speaking Joint Venture companies, responsible for IT support of roll-outs and merges of the companies (IT, finances, controlling, logistics, sales)."
       }
     ],
     "other_work": [
-      { 
+      {
         "background": true,
-        "title":"Designing firmware for an autonomous timelapse camera",
-        "location":"February 2020 - April 2020"
+        "title": "Designing firmware for an autonomous timelapse camera",
+        "location": "February 2020 - April 2020"
       },
-      { 
-        "title":"Wedding Photographer",
-        "location":"March 2015 - January 2018"
+      {
+        "title": "Wedding Photographer",
+        "location": "March 2015 - January 2018"
       },
-      { 
-        "title":"Graphic/web designer",
-        "location":"January 2009 - March 2015"
+      {
+        "title": "Graphic/web designer",
+        "location": "January 2009 - March 2015"
       },
-      { 
-        "title":"Freelance Photographer",
-        "location":"August 2008 - March 2015"
+      {
+        "title": "Freelance Photographer",
+        "location": "August 2008 - March 2015"
       }
     ],
     "consulting": [
-      { 
-        "company":"Iga Relax d.o.o.",
-        "title":"Marketing and IT Consultant"
+      {
+        "company": "Iga Relax d.o.o.",
+        "title": "Marketing and IT Consultant"
       },
-      { 
-        "company":"Moja Knjiga d.o.o.",
-        "title":"Marketing and Event Manager"
+      {
+        "company": "Moja Knjiga d.o.o.",
+        "title": "Marketing and Event Manager"
       },
-      { 
-        "company":"E-posrednik s.p.",
-        "title":"Sales and Direct Marketing Manager"
+      {
+        "company": "E-posrednik s.p.",
+        "title": "Sales and Direct Marketing Manager"
       },
-      { 
-        "company":"DES Labod d.o.o.",
-        "title":"Sales Manager"
+      {
+        "company": "DES Labod d.o.o.",
+        "title": "Sales Manager"
       },
-      { 
-        "company":"Pošta Slovenije",
-        "title":"Mail Delivery and Back Office"
+      {
+        "company": "Pošta Slovenije",
+        "title": "Mail Delivery and Back Office"
       }
-
     ],
     "volunteering": [
-      { 
+      {
         "background": true,
-        "title":"Open project COVID-19 Sledilnik Project Manager",
-        "years":"Present."
+        "title": "Sledilnik.org Product/Project Manager",
+        "years": "March 2020 - Present"
       },
-      { 
-        "title":"President of Photo club Tržič",
-        "years":"5 years 6 months"
+      {
+        "title": "President of Photo club Tržič",
+        "years": "5 years 6 months"
       },
-      { 
-        "title":"Symphonic orchestra Cantabile E-bass/Double bass player",
-        "years":"8 years+"
+      {
+        "title": "Symphonic orchestra Cantabile E-bass/Double bass player",
+        "years": "8 years+"
       },
-      { 
-        "title":"Mongolia Charity Rally 2014 Team Head",
-        "years":"1 year"
+      {
+        "title": "Mongolia Charity Rally 2014 Team Head",
+        "years": "1 year"
       }
     ],
     "languages": [
