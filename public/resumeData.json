@@ -34,12 +34,18 @@
       }
     ],
     "work": [
-      {
+            {
+        "company": "Zemanta",
+        "location": "Ljubljana, Slovenia",
+        "title": "Data driven Product manager",
+        "years": "December 2022 - present",
+        "description": ""
+      },{
         "company": "d.labs",
         "location": "Ljubljana, Slovenia",
         "title": "Senior Product manager",
-        "years": "September 2020 - Present",
-        "description": ""
+        "years": "September 2020 - November 2021",
+        "description": "Product manager for various web applications."
       },
       {
         "company": "Fareboom - Best Travel Store Inc.",
@@ -152,7 +158,7 @@
       },
       {
         "lang": "Russian",
-        "proficiency": "Full proficiency"
+        "proficiency": "Full proficiency, will not speak unless necessary"
       },
       {
         "lang": "German",
